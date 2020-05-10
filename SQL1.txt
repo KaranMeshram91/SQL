@@ -1,0 +1,2 @@
+use exam;
+select * from student;
