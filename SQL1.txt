@@ -1,2 +1,2 @@
 use exam;
-select * from student;
+select id from student;
