@@ -1,2 +1,2 @@
 use exam;
-select id from student;
+select id from student where id = 10;
